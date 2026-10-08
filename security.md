@@ -9,7 +9,7 @@ The security risk is very low. The repo contains only class assignments and
 practice code that uses fake data. It does not contain any passwords, API keys,
 personal information, or sensitive data.
 
-If this repo were altered or viewed by an unauthorized user, the main
+If this repo were altered by an unauthorized user, the main
 consequences would be:
 - **Academic integrity:** other students could copy my assignments.
 - **Unwanted changes:** someone could delete or alter my work, affecting my grades.
